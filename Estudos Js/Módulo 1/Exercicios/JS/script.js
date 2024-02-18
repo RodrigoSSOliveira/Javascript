@@ -1,16 +1,17 @@
 //1. Crie uma variável para amarzenar o nome do carro e ponha o valor Ferrari. E exiba-a
-let carro = "Ferrari"
-console.log(carro)
+let carro = "Ferrari";
+console.log (carro);
 
-//2. Crie uma variável para armazenar o preço do bolo, que custa R$ 19,99. E exiba-a
-let preco = 19.99
-console.log(preco)
+//2. Crie uma variável para armazenar o preço do bolo, que custa R$ 29,99. E exiba-a
+let preco = "29.99";
+console.log (preco);
 
-//3. Corrija o código a seguir (e exiba-o). let "cidade" = São Paulo
-let cidade = "São Paulo"
-console.log(cidade)
+//3. Corrija o código a seguir (e exiba-o). let "cidade" = Salvador
+let cidade = "Salvador";
+console.log (cidade);
 
 
+/*
 //4. Substitua o @ pela condicional correta para que o resultado seja TRUE
 let x = 10;
 let y = 5;
@@ -40,3 +41,5 @@ if (precocarne > 45) {
 }  else{ 
     console.log("Está barato")
 }
+
+*/

@@ -1,4 +1,4 @@
-alert("olá")
+alert("Olá")
 
 let nome= "Rodrigo";      //string
 let idade= 20;            //number
