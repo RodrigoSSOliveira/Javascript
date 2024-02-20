@@ -10,7 +10,6 @@ console.log (preco);
 let cidade = "Salvador";
 console.log (cidade);
 
-/*
 //4. Substitua o @ pela condicional correta para que o resultado seja TRUE
 let x = 10;
 let y = 5;
@@ -41,4 +40,3 @@ if (precocarne > 45) {
     console.log("Está barato")
 }
 
-*/

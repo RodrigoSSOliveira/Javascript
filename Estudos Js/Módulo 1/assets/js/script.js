@@ -40,7 +40,6 @@ let nomecompleto= (name + " " + sobrenome)
 console.log(nomecompleto)
 
 
-
 // template string
 let nomes = "Julio";
 let sobrenomes = "Silva";
@@ -74,9 +73,10 @@ if (idades >= 18 && idades <=60) {
 }
 
 
+//Média escolar
 let n1 = 8;
 let n2 = 6;
-let n3 = 4;
+let n3 = 8;
 
 let media = (n1 + n2 + n3) / 3;
 
@@ -104,7 +104,7 @@ if (media <= 4) {
 
 
 //Condicional Ternario
-let Prime = true;
+let Prime = false;
 
 let shipping = Prime ? "Grátis" : 20;
 
@@ -118,13 +118,6 @@ let age = 90;
 let isAdult = ((age >=18) ? 'Sim' : 'Não');
 
 console.log(isAdult);
-
-
-
-
-
-
-
 
 
 // Switch
