@@ -1,4 +1,4 @@
-alert("Olá")
+/*alert("Olá")
 
 let nome= "Rodrigo";      //string
 let idade= 20;            //number
@@ -17,13 +17,13 @@ console.log("Na " + estado);
 
  let lista = [ovo, leite, acucar]  *array*
  let nomecompleto = {nome: "Rodrigo", idade: 20}  *object* 
-*/
+
 
 /* Tipos de Variáveis
  let - Variável que aceita qualquer valor
  var - Variável que aceita qualquer valor
  const - Variável constante, não muda
-*/
+
 
 
 // Operações matemáticas
@@ -59,14 +59,14 @@ console.log(nomescompleto)
     }  else{
         console.log("Você é MENOR de idade")
     }
-*/
+
 
 /*if (idades >=18) {
         if (idades <60) {
             console.log("Você é um adulto")
         }
     }
-*/
+
 
 if (idades >= 18 && idades <=60) {
     console.log("Você é um adulto")
@@ -99,7 +99,7 @@ if (media <= 4) {
 != Diferente
 && E
 || Ou
-*/
+
 
 
 
@@ -139,3 +139,13 @@ switch (profession) {
         console.log ("Sua Camisa será PRETA")
         break;
 }
+
+*/
+
+//Funções
+function gravidade(){
+    console.log("A gravidade do planeta é:")
+    console.log(9.8)
+}
+
+console.log("ola")
