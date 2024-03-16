@@ -144,6 +144,6 @@ switch (profession) {
 
 //Funções
 function gravidade(){
-    console.log("A gravidade da Terra é:")
+    console.log("A gravidade da Terra :")
     console.log(9.7)
 }
