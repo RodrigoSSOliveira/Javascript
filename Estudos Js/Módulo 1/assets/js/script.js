@@ -147,3 +147,7 @@ function gravidade(){
     console.log("A gravidade da Terra é:")
     console.log(9.7)
 }
+
+function{
+    
+}
