@@ -148,6 +148,3 @@ function gravidade(){
     console.log(9.7)
 }
 
-function{
-    
-}
